@@ -95,7 +95,7 @@
             },
             "schema": {
               "description": "String representation (UTF-8) of the registered schema.",
-              "type": "string"
+              "type": "file"
             }
           },
           "default": {
